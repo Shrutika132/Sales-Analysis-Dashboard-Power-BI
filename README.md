@@ -7,10 +7,15 @@ This project presents a Sales Analysis Dashboard designed to analyze and visuali
 🎯 Key Features
 
 📍 Region-wise Analysis – Compare sales and profit across regions like Atlantic, Ontario, West, etc.
-🗺️ Geographical Visualization – Interactive map showing sales distribution by location
-📦 Product Insights – Sales and profit breakdown by product sub-category
-📊 Category Analysis – Contribution of Technology, Furniture, and Office Supplies
-💰 KPI Metrics – Total Sales, Profit, and Discounted Price overview
+
+🗺️ Geographical Visualization – Interactive map showing sales distribution by location.
+
+📦 Product Insights – Sales and profit breakdown by product sub-category.
+
+📊 Category Analysis – Contribution of Technology, Furniture, and Office Supplies.
+
+💰 KPI Metrics – Total Sales, Profit, and Discounted Price overview.
+
 📈 Trend Analysis – Identify high-performing and low-performing segments
 
 ---
@@ -18,14 +23,19 @@ This project presents a Sales Analysis Dashboard designed to analyze and visuali
 🛠️ Tools & Technologies
 
 🔹Power BI – Data visualization & dashboard creation
+
 🔹Excel / CSV – Data source and preprocessing
+
 🔹DAX – Calculations and measures
 
 ---
 
 📊 Dashboard Insights
 
-🔹Ontario and West regions generate the highest sales and profit
-🔹Certain product sub-categories (like Copiers and Phones) drive major revenue
-🔹Discounting impacts profitability across regions
-🔹Technology category contributes significantly to total sales
+🔹Ontario and West regions generate the highest sales and profit.
+
+🔹Certain product sub-categories (like Copiers and Phones) drive major revenue.
+
+🔹Discounting impacts profitability across regions.
+
+🔹Technology category contributes significantly to total sales.
